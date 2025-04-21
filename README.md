@@ -27,5 +27,3 @@ Follow the steps below to get your local development environment up and running.
    docker-compose build
    docker-compose up
 
-~
-
