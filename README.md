@@ -21,10 +21,11 @@ Follow the steps below to get your local development environment up and running.
 - Docker and Docker Compose installed on your system.
 
 ### Execution
-~bash
-docker-compose build
-~
-~
-docker-compose up
+
+1. Build the Docker containers:
+   ```bash
+   docker-compose build
+   docker-compose up
+
 ~
 
